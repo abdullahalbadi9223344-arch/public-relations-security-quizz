@@ -1,0 +1,12 @@
+{
+  "name": "اختبار العلاقات العامة والإعلام الأمني",
+  "short_name": "اختبار العلاقات العامة",
+  "description": "اختبار تفاعلي في العلاقات العامة والإعلام الأمني",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f6fb",
+  "theme_color": "#1a5fa8",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
